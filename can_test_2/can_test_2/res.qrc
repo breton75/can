@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>battery.ico</file>
+        <file>../../Common/Icons/super-mono-2/ico/light-bulb1.ico</file>
+    </qresource>
+</RCC>
